@@ -61,3 +61,18 @@ public class EvenOddSumAverage {
         System.out.println("----------------------------------------------");
     }
 }
+
+/*
+Output (Example: java EvenOddSumAverage 1 2 3 4 5 6 7 8 9 10):
+Input Numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+----------------------------------------------
+EVEN NUMBERS:
+Sum of Even Numbers    : 30
+Average of Even Numbers: 6.0
+----------------------------------------------
+ODD NUMBERS:
+Sum of Odd Numbers     : 25
+Average of Odd Numbers : 5.0
+----------------------------------------------
+*/
+

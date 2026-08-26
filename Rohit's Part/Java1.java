@@ -4,3 +4,8 @@ class Add {
 
   }
 }
+
+/*
+Output:
+welcome
+*/

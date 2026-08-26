@@ -30,3 +30,10 @@ public class FindMaximum {
         System.out.println("Maximum Number: " + max);
     }
 }
+
+/*
+Output (Example: java FindMaximum 12 45 8 99 23):
+Input Numbers: 12, 45, 8, 99, 23
+Maximum Number: 99
+*/
+

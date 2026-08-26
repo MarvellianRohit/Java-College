@@ -5,3 +5,10 @@ class PrintVariabes {
         System.out.println("Number = " + number);
     }
 }
+
+/*
+Output:
+I amawesome
+Number = -10.6
+*/
+

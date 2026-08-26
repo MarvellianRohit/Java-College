@@ -5,3 +5,9 @@ class Test
             System.out.println("welcome");
         }        
 }
+
+/*
+Output:
+welcome
+*/
+

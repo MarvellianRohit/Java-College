@@ -39,3 +39,11 @@ public class LoginSystem {
         sc.close();
     }
 }
+
+/*
+Output:
+Enter User ID: MRC
+Enter Password: 2007
+Login Successful!
+*/
+

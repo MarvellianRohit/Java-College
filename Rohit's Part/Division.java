@@ -9,3 +9,10 @@ public class Division {
         System.out.println("Remainder: " + remainder);
     }
 }
+
+/*
+Output:
+Quotient: 5
+Remainder: 1
+*/
+

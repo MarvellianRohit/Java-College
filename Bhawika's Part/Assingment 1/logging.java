@@ -25,3 +25,11 @@ public class logging {
         sc.close();
     }
 }
+
+/*
+Output:
+Enter User ID: admin
+Enter Password: password123
+Login Successful!
+*/
+

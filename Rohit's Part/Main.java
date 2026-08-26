@@ -5,3 +5,15 @@ public class Main {
         }
     }
 }
+
+/*
+Output:
+1
+3
+5
+7
+...
+97
+99
+*/
+

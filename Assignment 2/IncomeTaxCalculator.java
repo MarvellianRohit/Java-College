@@ -63,3 +63,15 @@ public class IncomeTaxCalculator {
 
     }
 }
+
+/*
+Output:
+==============================================
+          EMPLOYEE INCOME TAX DETAILS         
+==============================================
+Employee Name  : Rohit Chandra
+Annual Earnings: Rs. 200000.0
+Income Tax Due : Rs. 34000.0
+==============================================
+*/
+

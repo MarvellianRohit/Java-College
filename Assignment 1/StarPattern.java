@@ -30,3 +30,15 @@ public class StarPattern {
         printer.printPattern();
     }
 }
+
+/*
+Output:
+*
+**
+***
+****
+***
+**
+*
+*/
+

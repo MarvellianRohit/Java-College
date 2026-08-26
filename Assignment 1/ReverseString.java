@@ -35,3 +35,10 @@ public class ReverseString {
         System.out.println("Reversed String: " + result);
     }
 }
+
+/*
+Output:
+Original String: hello world
+Reversed String: dlrow olleh
+*/
+

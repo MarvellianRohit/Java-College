@@ -22,3 +22,12 @@ public class DivisionInput {
 
     }
 }
+
+/*
+Output:
+Enter dividend: 11
+Enter divisor: 2
+Quotient: 5.5
+Remainder: 1.0
+*/
+

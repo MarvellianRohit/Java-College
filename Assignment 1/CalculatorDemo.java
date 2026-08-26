@@ -44,3 +44,12 @@ public class CalculatorDemo {
         System.out.println("Division: " + calc.divide(a, b));
     }
 }
+
+/*
+Output:
+Addition: 25
+Subtraction: 15
+Multiplication: 100
+Division: 4.0
+*/
+

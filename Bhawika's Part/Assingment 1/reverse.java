@@ -7,3 +7,9 @@ public class reverse {
     }
 }
 
+/*
+Output (Example: java reverse i am a student):
+student a am i 
+*/
+
+

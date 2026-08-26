@@ -8,3 +8,9 @@ public class factorial{
             System.out.printf("factorial of %d = %d%n", num, factorial);
     }
 }
+
+/*
+Output:
+factorial of 10 = 3628800
+*/
+
