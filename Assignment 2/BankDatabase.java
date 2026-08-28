@@ -1,3 +1,10 @@
+/*
+ * Question: Write a Java program to implement a BankAccount class with operations: 
+ * (i) Deposit a certain amount into an account
+ * (ii) Withdraw a certain amount from an account
+ * (iii) Return a value specifying the amount (i.e. balance) in an account.
+ */
+
 class BankAccount {
     private String accountNumber;
     private String accountHolder;

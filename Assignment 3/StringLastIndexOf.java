@@ -1,4 +1,6 @@
-// Assignment 3/StringLastIndexOf.java
+/*
+ * Question 8: Write a Java program to get the last index of a string within a string.
+ */
 
 public class StringLastIndexOf {
     public static void main(String[] args) {

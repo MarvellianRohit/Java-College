@@ -1,4 +1,7 @@
-// Assignment 3/StringCaseConversion.java
+/*
+ * Question 4: Write a java program to convert the following string 
+ * to uppercase and lowercase: "Hello, How are you."
+ */
 
 public class StringCaseConversion {
     public static void main(String[] args) {

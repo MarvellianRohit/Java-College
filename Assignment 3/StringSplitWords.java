@@ -1,4 +1,7 @@
-// Assignment 3/StringSplitWords.java
+/*
+ * Question 5: Write a java program to split the given string 
+ * into words: "Hello, How are you."
+ */
 
 public class StringSplitWords {
     public static void main(String[] args) {

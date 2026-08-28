@@ -1,5 +1,9 @@
 
-// FibonacciDemo.java
+/*
+ * Question: Write a Java program using an OOP approach (creating a FibonacciGenerator class 
+ * and object) to print the Fibonacci series up to N terms.
+ */
+
 import java.util.Scanner;
 
 // Class 1: Contains method to generate Fibonacci series

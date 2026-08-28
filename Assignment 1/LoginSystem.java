@@ -1,5 +1,9 @@
 
-// LoginSystem.java
+/*
+ * Question: Write a Java program to implement a user authentication / login system 
+ * using OOP by validating User ID and Password.
+ */
+
 import java.util.Scanner;
 
 // Class containing the login validation method

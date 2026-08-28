@@ -1,4 +1,7 @@
-// Assignment 3/EvenOddSumAverage.java
+/*
+ * Question: Write a Java program to calculate the sum and average of even and odd numbers 
+ * passed via command-line arguments.
+ */
 
 public class EvenOddSumAverage {
     public static void main(String[] args) {

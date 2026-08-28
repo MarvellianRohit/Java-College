@@ -1,3 +1,11 @@
+/*
+ * Question: Write a Java program to calculate income tax for an employee based on specified slab rates:
+ * - Up to Rs. 50,000 : 0% tax
+ * - Rs. 50,001 to Rs. 60,000 : 10% tax on amount above 50,000
+ * - Rs. 60,001 to Rs. 1,50,000 : 20% tax on amount above 60,000 + tax for previous slab
+ * - Above Rs. 1,50,000 : 30% tax on amount above 1,50,000 + tax for previous slabs
+ */
+
 import java.util.Scanner;
 
 public class IncomeTaxCalculator {

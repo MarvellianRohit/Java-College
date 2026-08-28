@@ -1,4 +1,6 @@
-// Assignment 3/StringEqualsCheck.java
+/*
+ * Question 7: Write a Java program to check whether two String objects contain the same data.
+ */
 
 public class StringEqualsCheck {
     public static void main(String[] args) {

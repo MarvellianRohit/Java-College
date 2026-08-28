@@ -1,4 +1,7 @@
-// CalculatorDemo.java
+/*
+ * Question: Write a Java program to create a Calculator class with methods for addition, 
+ * subtraction, multiplication, and division, and call them from a main class.
+ */
 
 // Class with methods for arithmetic operations
 class Calculator {

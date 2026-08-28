@@ -1,4 +1,6 @@
-// Assignment 3/IntArrayToStringBuffer.java
+/*
+ * Question 2: Write a java program to convert int Array To String Example using string buffer.
+ */
 
 public class IntArrayToStringBuffer {
     public static void main(String[] args) {

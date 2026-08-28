@@ -1,4 +1,6 @@
-// ReverseString.java
+/*
+ * Question: Write a Java program using OOP to reverse a string passed via command-line arguments.
+ */
 
 // Class 1: Contains method to reverse a string
 class StringReverser {

@@ -1,3 +1,8 @@
+/*
+ * Question: Write a Java program to dynamically create and display a 2D jagged array 
+ * with decreasing row lengths (4, 3, 2, 1) and store values into it.
+ */
+
 public class JaggedArray {
     public static void main(String[] args) {
         // Dynamically initialize 2D array with 4 rows

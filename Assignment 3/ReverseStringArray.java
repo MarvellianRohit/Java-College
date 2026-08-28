@@ -1,4 +1,6 @@
-// Assignment 3/ReverseStringArray.java
+/*
+ * Question 3: Write a java program for Reverse String Array Example.
+ */
 
 import java.util.Arrays;
 

@@ -1,4 +1,8 @@
-// Assignment 3/StringOperations.java
+/*
+ * Question 1: Write a java program to implement the following operations: 
+ * (take user input and use switch case) - String reverse, substring, 
+ * calculate string length, and fetch character at 5, search string using index of.
+ */
 
 import java.util.Scanner;
 

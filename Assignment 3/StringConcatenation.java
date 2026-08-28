@@ -1,4 +1,7 @@
-// Assignment 3/StringConcatenation.java
+/*
+ * Question 6: Write a java program to concatenate two string 
+ * using string and string buffer.
+ */
 
 public class StringConcatenation {
     public static void main(String[] args) {

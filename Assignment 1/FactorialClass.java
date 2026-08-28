@@ -1,5 +1,9 @@
 
-// FactorialDemo.java
+/*
+ * Question: Write a Java program using an OOP approach (creating a separate class FactorialCalculator 
+ * and object) to calculate the factorial of a user-given number.
+ */
+
 import java.util.Scanner;
 
 // Class 1: Contains method to calculate factorial

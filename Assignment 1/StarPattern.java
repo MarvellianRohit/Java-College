@@ -1,4 +1,7 @@
-// StarPattern.java
+/*
+ * Question: Write a Java program using OOP to print a star pattern (pyramid upper 1 to 4 stars 
+ * and lower 3 down to 1 star).
+ */
 
 // Class 1: Contains method to print pattern
 class PatternPrinter {

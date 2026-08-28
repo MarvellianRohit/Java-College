@@ -1,4 +1,9 @@
 
+/*
+ * Question: Write a Java program to find the maximum number from a list of numbers 
+ * passed via command-line arguments.
+ */
+
 public class FindMaximum {
     public static void main(String[] args) {
         // Check if command line arguments are passed

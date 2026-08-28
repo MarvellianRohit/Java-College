@@ -1,4 +1,7 @@
-// Assignment 3/StringTrimWhitespace.java
+/*
+ * Question 9: Write a Java program to trim any leading or trailing whitespace 
+ * from a given string.
+ */
 
 public class StringTrimWhitespace {
     public static void main(String[] args) {
