@@ -3,7 +3,7 @@
  * using string and string buffer.
  */
 
-public class StringConcatenation {
+public class Q6_StringConcatenation {
     public static void main(String[] args) {
         String str1 = "Hello";
         String str2 = ", World!";

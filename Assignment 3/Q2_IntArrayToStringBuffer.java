@@ -2,7 +2,7 @@
  * Question 2: Write a java program to convert int Array To String Example using string buffer.
  */
 
-public class IntArrayToStringBuffer {
+public class Q2_IntArrayToStringBuffer {
     public static void main(String[] args) {
         // Sample integer array
         int[] numbers = {10, 20, 30, 40, 50, 60, 70};

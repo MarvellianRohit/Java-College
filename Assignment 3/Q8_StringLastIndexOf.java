@@ -2,7 +2,7 @@
  * Question 8: Write a Java program to get the last index of a string within a string.
  */
 
-public class StringLastIndexOf {
+public class Q8_StringLastIndexOf {
     public static void main(String[] args) {
         String mainString = "Java is a popular programming language. Java is versatile and powerful.";
         String targetSubstring = "Java";
@@ -35,13 +35,14 @@ public class StringLastIndexOf {
 }
 
 /*
-Sample Output:
-Main String: "Java is a popular programming language. Java is versatile and powerful."
-Target Substring: "Java"
---------------------------------------------------
-First occurrence of "Java": index 0
-Last occurrence of  "Java": index 40
---------------------------------------------------
-Last occurrence of character 'a': index 57
-Last occurrence of "Python": index -1
-*/
+ * Sample Output:
+ * Main String:
+ * "Java is a popular programming language. Java is versatile and powerful."
+ * Target Substring: "Java"
+ * --------------------------------------------------
+ * First occurrence of "Java": index 0
+ * Last occurrence of "Java": index 40
+ * --------------------------------------------------
+ * Last occurrence of character 'a': index 57
+ * Last occurrence of "Python": index -1
+ */

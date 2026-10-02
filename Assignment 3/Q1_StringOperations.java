@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class StringOperations {
+public class Q1_StringOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

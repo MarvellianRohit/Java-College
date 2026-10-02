@@ -2,7 +2,7 @@
  * Question 7: Write a Java program to check whether two String objects contain the same data.
  */
 
-public class StringEqualsCheck {
+public class Q7_StringEqualsCheck {
     public static void main(String[] args) {
         // Creating string objects
         String str1 = new String("Java Programming");

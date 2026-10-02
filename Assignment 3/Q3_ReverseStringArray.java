@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-public class ReverseStringArray {
+public class Q3_ReverseStringArray {
     public static void main(String[] args) {
         // Original String array
         String[] originalArray = {"Java", "Python", "C++", "JavaScript", "Go", "Rust"};

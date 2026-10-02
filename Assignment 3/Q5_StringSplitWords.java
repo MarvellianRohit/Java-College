@@ -3,7 +3,7 @@
  * into words: "Hello, How are you."
  */
 
-public class StringSplitWords {
+public class Q5_StringSplitWords {
     public static void main(String[] args) {
         // Input string specified in the question
         String inputStr = "Hello, How are you.";
